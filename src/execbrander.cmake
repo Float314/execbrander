@@ -81,7 +81,7 @@ BLOCK \"StringFileInfo\"
 
 BLOCK \"VarFileInfo\"
 {
-	VALUE \"Translation\", 0x0409 0x04B0
+	VALUE \"Translation\", 0x0409, 0x04B0
 }
 }
 
