@@ -1,0 +1,8 @@
+{
+    "name": "myapp",
+    "description": "Fast package manager",
+    "company": "NicheExampleCompany",
+    "copyright": "Copyright (C) 2026 NicheExampleCompany. Licensed under the GNU GPL v3.0 License.",
+    "version": "2.4.1",
+    "icon": "assets/icon.ico"
+}
