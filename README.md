@@ -34,14 +34,6 @@ Traditional .rc files are:
 
 execbrand provides a cleaner workflow using JSON and CMake.
 
-# Recommended project structure
-
-root
-   \- src/ 
-   \- config/ 
-        \- metadata.json
-    \- Other files
-
 # Legal License
 
 Licesned under the BSD 4-Clause License
